@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 const currencies:any ={USD:1,EUR:0.92,GBP:0.79,AED:3.67,PKR:278};
 
